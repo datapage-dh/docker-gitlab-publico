@@ -1,5 +1,5 @@
 #!/bin/sh
-versao='1.1.0'
+versao='1.1.1'
 git add . 
 git commit -m $versao
 git push origin main 
