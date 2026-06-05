@@ -1,4 +1,4 @@
-FROM docker:20.10.24-git
+FROM docker:27.5.1-git
 ENV TZ=America/Sao_Paulo
 
 
